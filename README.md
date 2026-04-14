@@ -1,5 +1,5 @@
 # jogo-de-pedra-papel-tesoura
-[11:58, 14/04/2026] !𝕽𝖊𝖎𝖘₁₁: Projeto desenvolvido em Java que simula o clássico jogo de Pedra, Papel e Tesoura contra o computador, com interação via terminal.
+Projeto desenvolvido em Java que simula o clássico jogo de Pedra, Papel e Tesoura contra o computador, com interação via terminal.
 
 ⸻
 
